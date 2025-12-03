@@ -19,8 +19,7 @@ I'm a passionate developer and designer with expertise in:
 
 ## Getting Started
 
-This website is hosted on GitHub Pages and can be accessed at [rohem.xyz](https://rohem.xyz)
-
+This website is hosted on GitHub Pages and can be accessed at [anishvyapari.github.io/rohem.github.io](https://anishvyapari.github.io/rohem.github.io/)
 ## Technologies Used
 
 - HTML5
